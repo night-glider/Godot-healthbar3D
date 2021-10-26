@@ -5,3 +5,4 @@
 /screenshots           export-ignore
 /screenshots/*         export-ignore
 /LICENSE               export-ignore
+/.import               export-ignore
