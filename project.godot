@@ -8,6 +8,16 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Sprite3D",
+"class": "healthbar3D",
+"language": "GDScript",
+"path": "res://HealthBar3D/Healthbar3D.gd"
+} ]
+_global_script_class_icons={
+"healthbar3D": "res://HealthBar3D/class_icon.png"
+}
+
 [application]
 
 config/name="healthbar3D"
