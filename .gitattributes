@@ -6,3 +6,4 @@
 /screenshots/*         export-ignore
 /LICENSE               export-ignore
 /.import               export-ignore
+/project.godot         export-ignore
