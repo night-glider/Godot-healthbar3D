@@ -44,7 +44,6 @@ func value_set(val):
 	progress_origin.scale.x = value
 	progress.material_override.albedo_color = empty_color.linear_interpolate(full_color, value)
 
-
 func full_set(val):
 	full_color = val
 	value_set(value)
